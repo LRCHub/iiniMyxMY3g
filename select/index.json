@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "THIS IS FOR",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-07T10:26:47.986080Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "And This Is For...",
+      "artist": "Murs",
+      "has_synced": true,
+      "path": "select/01_And_This_Is_For..._Murs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It Takes Two to Tango (This Is for the Girls)",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/02_It_Takes_Two_to_Tango_(This_Is_for_the_Girls)_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(This Is for the) Better Days",
+      "artist": "The Bees",
+      "has_synced": true,
+      "path": "select/03_(This_Is_for_the)_Better_Days_The_Bees.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This Is for Me",
+      "artist": "Banoffee",
+      "has_synced": true,
+      "path": "select/04_This_Is_for_Me_Banoffee.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Is for Me and I Know Everyone Knows",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/05_This_Is_for_Me_and_I_Know_Everyone_Knows_Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Is For When...",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/06_This_Is_For_When..._Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "This Is for My Homies",
+      "artist": "Juelz Santana",
+      "has_synced": false,
+      "path": "select/07_This_Is_for_My_Homies_Juelz_Santana.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This is for My Homies (ft. Jim Jones)",
+      "artist": "Juelz Santana",
+      "has_synced": false,
+      "path": "select/08_This_is_for_My_Homies_(ft._Jim_Jones)_Juelz_Santana.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This is for You",
+      "artist": "The Dirty Youth",
+      "has_synced": true,
+      "path": "select/09_This_is_for_You_The_Dirty_Youth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Is For You (Live And Stripped)",
+      "artist": "The Dirty Youth",
+      "has_synced": false,
+      "path": "select/10_This_Is_For_You_(Live_And_Stripped)_The_Dirty_Youth.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Is For The Lover In You - Honey Lookin' Laced Extended Remix",
+      "artist": "Babyface",
+      "has_synced": false,
+      "path": "select/11_This_Is_For_The_Lover_In_You_-_Honey_Lookin'_Laced_Extended_Remix_Babyface.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This Is for the Lover In You (feat. LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels)",
+      "artist": "Babyface feat. LL COOL J, Howard Hewett, Jody Watley & Jeffrey Daniels",
+      "has_synced": true,
+      "path": "select/12_This_Is_for_the_Lover_In_You_(feat._LL_Cool_J,_Howard_Hewett,_Jody_Watley_&_Jeff_Babyface_feat._LL_COOL_J,_Howard_Hewett,_Jody_Watley_&_Jeffrey_Daniels.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This Is For Real",
+      "artist": "Motion City Soundtrack",
+      "has_synced": true,
+      "path": "select/13_This_Is_For_Real_Motion_City_Soundtrack.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Is For When",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/14_This_Is_For_When_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "This Is for the Lover In You",
+      "artist": "Shalamar",
+      "has_synced": true,
+      "path": "select/15_This_Is_for_the_Lover_In_You_Shalamar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THIS IS FOR",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_THIS_IS_FOR_TWICE.txt"
+    }
+  ]
+}
