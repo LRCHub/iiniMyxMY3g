@@ -1,0 +1,103 @@
+# TWICE – THIS IS FOR
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+(Hahaha)
+This is for all my ladies
+who don't get hyped enough
+(hey, ladies)
+If you've been done wrong,
+then this your song,
+so turn it up
+(turn it up for me, uh, uh)
+I wanna go where
+the baddest girls are from
+(uh-uh-uh, uh-uh-uh)
+Might be another planet,
+maybe that's where
+Mother Nature made me (woo)
+Something about that
+water tastes like fun
+(yeah, yeah)
+My girls make it rain confetti,
+sweet on your tongue
+Beep, beep, beep
+I'm outside your door,
+so let's go, don't let that
+Beep, beep, beep
+Have you feeling low
+when you're grown, you got the
+Key, key, keys (you got it)
+You already know and it shows
+Tonight it's you and me,
+how it should be
+This is for all my ladies
+who don't get hyped enough
+If you've been done wrong,
+then this your song,
+so turn it up
+One time for all my ladies,
+you looking good as what?
+So tell 'em bye, bye,
+'cause it's your time
+to turn it up
+Thi-thi-this for the girls
+with that light inside
+They spin around you
+like satellite
+Yeah, you the baddest
+all day and night
+I'll give you flowers till
+the end of time
+(Ooh-ooh)
+this your moment, go get it
+(Ooh-ooh)
+forget that boy
+and don't sweat it
+(Oh-oh)
+I'll always be
+your ride or die, so
+Beep, beep, beep
+I'm outside your door,
+so let's go don't let that
+Beep, beep, beep
+Have you feeling low
+when you're grown, you got the
+Key, key, keys (you got it)
+You already know and it shows
+Tonight it's you and me,
+how it should be (yeah)
+This is for all my ladies
+who don't get hyped enough
+(ooh, ooh) (hyped enough)
+If you've been done wrong,
+then this your song,
+so turn it up
+(turn it up, oh-woah)
+One time for all my ladies
+(all my ladies),
+you looking good as what?
+So tell 'em bye, bye
+(step out, done wrong),
+'cause it's your time
+to turn it up
+All my ladies now (now)
+Oh, oh, oh, oh,
+let's get down (oh, let's get)
+Come on, dip your hip into it
+All my ladies now (now)
+Oh, oh, oh, oh (ladies now),
+let's get down (down)
+Come on, dip your hip into it
+All my ladies now (ladies)
+Oh, oh, oh, oh
+(this is for my ladies),
+let's get down (yeah)
+Come on, dip your hip into it
+All my ladies now (ladies)
+Oh, oh, oh, oh
+(this is for my ladies),
+let's get down
+Come on, dip your hip into it
+```
